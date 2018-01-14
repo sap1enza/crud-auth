@@ -1,0 +1,29 @@
+.navbar {
+    margin-top: 15px;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#underbutton {
+    
+    float: center;
+    font-size: 15px;
+    
+}
+
+.alert {
+    text-align: center;
+}
+
+.conteudo {
+    margin: auto;
+    width: 55%;
+    background: #fff;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+}
+
+.welcomeuser h5 {
+    padding-top: 8px;
+}
